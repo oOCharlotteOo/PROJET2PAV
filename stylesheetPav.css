@@ -1,0 +1,23 @@
+nav > ul {
+    display:block;
+    padding:10px;
+    background-color:greenyellow;
+}
+nav > ul > a{
+    margin: 20px 40px 50px 60px;
+    color:blue;
+    text-decoration: none;
+    font-family: "Arial", sans-serif;
+    text-transform: uppercase;
+    border: 10px;
+}
+body, html{
+    border:0;
+    margin :20px;
+    background-color: white;
+}
+nav > ul > img {
+    margin :70px;
+    width: 5%;
+    height: auto;
+}
